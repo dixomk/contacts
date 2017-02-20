@@ -1,0 +1,23 @@
+{
+  "name": "reznik",
+  "version": "0.0.1",
+  "description": "contacts spa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "express",
+    "spa"
+  ],
+  "author": "reznik konstantin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.2"
+  }
+}
